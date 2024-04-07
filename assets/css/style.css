@@ -3317,7 +3317,7 @@ video {
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 
-.shadow-primary-100\/20 {
+.shadow-neutral-100\/20 {
   --tw-shadow-color: rgb(194 197 204 / 0.2);
   --tw-shadow: var(--tw-shadow-colored);
 }
@@ -4127,7 +4127,7 @@ EmojiSymbols;
   color: rgb(156 163 175 / var(--tw-placeholder-opacity));
 }
 
-:is(.dark .dark\:shadow-primary-800\/40) {
+:is(.dark .dark\:shadow-neutral-800\/40) {
   --tw-shadow-color: rgb(30 32 36 / 0.4);
   --tw-shadow: var(--tw-shadow-colored);
 }
